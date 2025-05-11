@@ -1,10 +1,10 @@
 .contactItem {
-    background-color: #2c2c63;
-    color: #f0f8ff;
+    background-color: #d8d8e9;
+    color: #010102;
     margin-bottom: 5px;
     padding: 10px;
     border-radius: 5px;
-    border: 5px solid #0b1b36;
+    border: 5px solid #8297bb;
     width: 200px;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .notification{
-    color: #2c2c63;
+    color: #13131f;
     font-weight: bold;
     margin-left: 10px;
 }

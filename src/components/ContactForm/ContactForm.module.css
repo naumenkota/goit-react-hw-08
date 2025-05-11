@@ -2,8 +2,8 @@
     margin: 10px;
     border: 5px solid #0b1b36;
     width: 300px;
-    background-color: rgb(44, 44, 99);
-    color: aliceblue;
+    background-color: rgb(228, 228, 247);
+    color: rgb(6, 8, 10);
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -18,7 +18,7 @@
 }
 
 .input::placeholder {
-    color: #f0f8ff;
+    color: #99a6b1;
     opacity: 0.8;
 }
 
@@ -40,7 +40,7 @@
 }
 
 .button:hover {
-    background-color: #000000;
+    background-color: #615b5b;
 
 }
 
